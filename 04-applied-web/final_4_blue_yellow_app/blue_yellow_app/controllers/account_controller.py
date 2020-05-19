@@ -41,4 +41,3 @@ class AccountController(BaseController):
         # redirect
         print("Redirecting to account index page...")
         self.redirect('/account')
-
