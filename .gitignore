@@ -74,3 +74,7 @@ misc.xml
 15-deployment/blue_yellow_app_deployment/deploy/deploy.retry
 .env
 venv
+09-bootstrap/the_app/final_9_blue_yellow_app/.vscode/launch.json
+09-bootstrap/the_app/final_9_blue_yellow_app/.vscode/settings.json
+09-bootstrap/the_app/start_9_blue_yellow_app/.vscode/launch.json
+09-bootstrap/the_app/start_9_blue_yellow_app/.vscode/settings.json
